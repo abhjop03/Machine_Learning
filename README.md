@@ -1,2 +1,2 @@
 # Machine_Learning
-All algorithms written in from scratch using brutforce method, using linear algorithm and by using sklearn librarys   
+Algorithms can be implemented through different approaches: from scratch utilizing brute force techniques, employing linear algorithms, or leveraging pre-existing implementations provided by libraries such as scikit-learn.
